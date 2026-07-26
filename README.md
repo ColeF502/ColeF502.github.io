@@ -1,1 +1,7 @@
 # ColeF502.github.io
+
+## SNHU CS 499 2-2 Milestone One Code Review
+
+This code review examines the original versions of my selected artifacts, identifies areas for improvement, and explains my planned enhancements in software design and engineering, algorithms and data structures, and databases.
+
+Watch My CS 499 Code Review
