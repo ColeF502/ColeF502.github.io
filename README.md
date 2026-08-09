@@ -8,7 +8,7 @@
 
 ## Category One: Software Design and Engineering
 
-### Travlr Getaways
+### *Travlr Getaways*
 
 ### Artifact Overview
 
@@ -33,7 +33,7 @@ Overall, the enhancement improved the artifact by making it more secure, maintai
 
 ## Category Two: Algorithms and Data Structures
 
-### Contact, Task, and Appointment Services
+### *Contact, Task, and Appointment Services*
 
 ### Artifact Overview
 
