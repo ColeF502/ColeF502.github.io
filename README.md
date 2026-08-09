@@ -41,7 +41,9 @@ Contact, Task, and Appointment Services is a Java application that I originally 
 
 ### Enhancement and Skills Demonstrated
 
-[What we enhanced, why, and the algorithms/data structures skills demonstrated]
+I selected Contact, Task, and Appointment Services because its fairly basic original design gave me a good opportunity to demonstrate how I could choose and apply better data structures for specific problems. The project already included separate services, validation, and testing, but the enhanced version now uses a TreeMap to keep appointments ordered by their start times and a PriorityQueue to organize tasks by priority and due date. It also includes scheduling conflict detection, date and time searches for appointments, and filtering options for tasks.
+
+These changes demonstrate my skills in Java, algorithms and data structures, searching, sorting, filtering, conflict detection, validation, testing, and code organization. The enhancement made the services more useful and efficient by adding better ways to organize and retrieve data, while also expanding the original functionality with appointment scheduling, task prioritization, named constants, and additional JUnit testing for the new features and edge cases.
 
 ### Reflection
 
