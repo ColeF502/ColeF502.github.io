@@ -6,7 +6,7 @@ This code review examines the original versions of my Travlr Getaways full-stack
 
 ### [Watch my Code Review here](https://youtu.be/OL9BIUAW2qg)
 
--------
+---
 
 ## Category One: Software Design and Engineering
 
@@ -33,6 +33,8 @@ Overall, the enhancement improved the artifact by making it more secure, maintai
 ### [View Original Travlr Source Code here](https://github.com/ColeF502/ColeF502.github.io/tree/main/artifacts/software-design/original-travlr)
 ### [View Enhanced Travlr Source Code here](https://github.com/ColeF502/ColeF502.github.io/tree/main/artifacts/software-design/enhanced-travlr/SNHU%20CS%20499%20travlr)
 
+---
+
 ## Category Two: Algorithms and Data Structures
 
 ### *Contact, Task, and Appointment Services*
@@ -58,3 +60,5 @@ Overall, the enhancement improved the artifact by making the services more organ
 ### [View Original Service Source Code here](https://github.com/ColeF502/ColeF502.github.io/tree/main/artifacts/algorithms-data-structures/original-service/service%20-%20Original)
 
 ### [View Enhanced Service Source Code here](https://github.com/ColeF502/ColeF502.github.io/tree/main/artifacts/algorithms-data-structures/enhanced-service/SNHU%20CS%20499%20service)
+
+---
