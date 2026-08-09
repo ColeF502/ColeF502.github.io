@@ -24,7 +24,7 @@ These changes demonstrate my skills in full-stack development, reusable Angular 
 
 One thing that was reinforced to me when enhancing the artifact was how changing one part of an application can uncover problems in other areas that weren’t exactly obvious before. For instance, I found that the interface wasn’t updating correctly after logging in or out, and I also ran into an issue where changing a trip’s code caused the update request to fail because it was trying to use the new code instead of the original one. One of the bigger challenges was testing because my computer kept running out of memory when all of the tests ran at the same time. I ended up changing the test configuration so the files would run sequentially, which solved the problem.
 
-This enhancement fully met Course Outcomes 4 and 5, which were the outcomes I planned to address in Module One. It met Outcome 4 because I used full-stack development tools, reusable components, centralized configuration, and testing to improve the application and add useful functionality. It met Outcome 5 because I strengthened authentication and authorization, protected the Angular pages and API endpoints, and prevented unauthorized access. I believe that both of my planned outcomes were met.
+This enhancement fully met Course Outcomes 4 and 5, which were the outcomes I planned to address in Module One. It met Outcome 4 because I used full-stack development tools, reusable components, centralized configuration, and testing to improve the application and add useful functionality. It met Outcome 5 because I strengthened authentication and authorization, protected the Angular pages and API endpoints, and prevented unauthorized access. I believe that both of my planned outcomes were fully met.
 
 Overall, the enhancement improved the artifact by making it more secure, maintainable, reliable, and complete. I didn’t receive any instructor feedback that required revisions, so I didn’t need to make any additional changes before publishing the enhancement.
 
@@ -47,7 +47,11 @@ These changes demonstrate my skills in Java, algorithms and data structures, sea
 
 ### Reflection
 
-[What you learned, challenges, how it improved, instructor feedback, and the course outcomes]
+One thing that was reinforced to me while enhancing the artifact was how changing or adding a data structure can affect several other parts of a program. For instance, I kept the original HashMaps so appointments and tasks could still be found quickly by their IDs, but this meant I also had to make sure the TreeMap and PriorityQueue stayed updated whenever something was added, deleted, or changed. I also gained more experience with scheduling conflict detection, date and time searches, filtering, and updating existing tests after changing the appointment and task classes. One of the main challenges was making all of these enhancements without breaking the original contact, task, and appointment functionality, so I updated the tests as I worked and ultimately got all 59 to pass.
+
+This enhancement fully met Course Outcomes 1, 3, and 4, which were the outcomes I planned to address in Module One. It met Outcome 1 through cleaner code organization, named constants, testing, and design choices that make the program easier for another developer to understand and maintain. It met Outcome 3 by using TreeMap, PriorityQueue, searching, filtering, and scheduling conflict detection because these required choosing solutions that fit specific problems and considering the trade-offs involved. It met Outcome 4 with the Java implementation, validation, testing, and additional functionality added to the services. I believe that all three of my planned outcomes were fully met.
+
+Overall, the enhancement improved the artifact by making the services more organized, useful, and efficient while adding functionality for appointment scheduling, searching, task prioritization, and filtering. I didn’t receive any instructor feedback that required revisions, so I didn’t need to make any additional changes before publishing the enhancement.
 
 ### [View Original Service Source Code here](https://github.com/ColeF502/ColeF502.github.io/tree/main/artifacts/algorithms-data-structures/original-service/service%20-%20Original)
 
