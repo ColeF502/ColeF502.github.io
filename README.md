@@ -37,7 +37,7 @@ Overall, the enhancement improved the artifact by making it more secure, maintai
 
 ### Artifact Overview
 
-[Concise description of the original CS 320 artifact]
+Contact, Task, and Appointment Services is a Java application that I originally created for CS 320: Software Testing, Automation, and Quality Assurance in June 2025. The project is made up of separate services used to create, update, delete, organize, and search contacts, tasks, and appointments. It also includes validation, appointment scheduling and conflict detection, task prioritization, and JUnit tests used to verify the program’s functionality.
 
 ### Enhancement and Skills Demonstrated
 
