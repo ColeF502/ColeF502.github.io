@@ -85,6 +85,6 @@ Overall, the enhancement improved the artifact by making the services more organ
 
 [Brief overall improvement statement + instructor-feedback statement.]
 
-### [View Original Travlr Source Code here](LINK)
+### [View Original Travlr Source Code here](https://github.com/ColeF502/ColeF502.github.io/tree/main/artifacts/databases/original-travlr/travlr%20-%20Original)
 
-### [View Enhanced Travlr Source Code here](LINK)
+### [View Enhanced Travlr Source Code here](https://github.com/ColeF502/ColeF502.github.io/tree/main/artifacts/databases/enhanced-travlr/SNHU%20CS%20499%20travlr)
