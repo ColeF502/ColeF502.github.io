@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\appointment_service",
+    "\\src\\appointment_service\\appointment_test_package",
+    "\\src\\contact_service",
+    "\\src\\contact_service\\contact_package",
+    "\\src\\contact_service\\contact_test_package",
+    "\\src\\task_service",
+    "\\src\\task_service\\task_package",
+    "\\src\\task_service\\task_test_package"
+  ],
+  "SelectedNode": "\\src\\appointment_service\\appointment_package\\Appointment.java",
+  "PreviewInSolutionExplorer": false
+}
