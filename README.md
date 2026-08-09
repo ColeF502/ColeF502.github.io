@@ -30,3 +30,23 @@ Overall, the enhancement improved the artifact by making it more secure, maintai
 
 ## [View Original Travlr Source Code here](https://github.com/ColeF502/ColeF502.github.io/tree/main/artifacts/software-design/original-travlr)
 ## [View Enhanced Travlr Source Code here](https://github.com/ColeF502/ColeF502.github.io/tree/main/artifacts/software-design/enhanced-travlr/SNHU%20CS%20499%20travlr)
+
+## Category Two: Algorithms and Data Structures
+
+### Contact, Task, and Appointment Services
+
+### Artifact Overview
+
+[Concise description of the original CS 320 artifact]
+
+### Enhancement and Skills Demonstrated
+
+[What we enhanced, why, and the algorithms/data structures skills demonstrated]
+
+### Reflection
+
+[What you learned, challenges, how it improved, instructor feedback, and the course outcomes]
+
+## [View Original Service Source Code here](https://github.com/ColeF502/ColeF502.github.io/tree/main/artifacts/algorithms-data-structures/original-service/service%20-%20Original)
+
+## [View Enhanced Service Source Code here](https://github.com/ColeF502/ColeF502.github.io/tree/main/artifacts/algorithms-data-structures/enhanced-service/SNHU%20CS%20499%20service)
