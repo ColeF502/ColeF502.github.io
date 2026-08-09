@@ -6,6 +6,8 @@ This code review examines the original versions of my Travlr Getaways full-stack
 
 ### [Watch my Code Review here](https://youtu.be/OL9BIUAW2qg)
 
+---
+
 ## Category One: Software Design and Engineering
 
 ### *Travlr Getaways*
