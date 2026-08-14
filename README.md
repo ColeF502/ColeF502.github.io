@@ -69,7 +69,7 @@ Overall, the enhancement improved the artifact by making the services more organ
 
 ### Artifact Overview
 
-[Brief description of what the finished artifact is, where/when it originated, and its current high-level functionality.]
+Travlr Getaways is a full-stack travel application that I originally created for CS 465: Full Stack Development I in June 2026. The application combines a customer-facing travel website with an Angular administrative application, while a Node.js and Express backend connects the different parts of the project to a MongoDB database through Mongoose. The database was originally used primarily for storing and managing trip information, and authenticated administrators can use the administrative side of the application to manage those records.
 
 ### Enhancement and Skills Demonstrated
 
