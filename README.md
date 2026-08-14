@@ -79,11 +79,11 @@ These changes demonstrate my skills in MongoDB, Mongoose, database and schema de
 
 ### Reflection
 
-[What you learned during the enhancement, challenges you faced, and how you handled them.]
+One thing that was reinforced to me while enhancing the database was how changes to one part of an application can cause several unforeseen effects in other parts that depend on the same data. Adding reservations required more than simply creating new records because the system also had to connect the correct customer and trip, update remaining availability, and handle reservation failures. One big challenge was preventing overbooking while also ensuring a trip’s availability was restored if a reservation couldn’t be completed. I also ran into smaller issues with MongoDB indexes and testing the database without changing the actual trip and reservation records, which reinforced just how important testing and iteration are.
 
-[Which planned course outcomes were partially or fully met and how.]
+This enhancement fully met Course Outcomes 3 and 4, which were the outcomes I planned to address in Module One. It met Outcome 3 with the design of the reservation system and the way customer, trip, and reservation data all work together while also preventing problems like duplicate reservations and overbooking. It met Outcome 4 through my use of MongoDB, Mongoose, schema validation, aggregation, indexing, and testing to add useful database functionality to the application. I believe that both of my planned outcomes were fully met.
 
-[Brief overall improvement statement + instructor-feedback statement.]
+Overall, the enhancement improved the artifact by making the database more complete, reliable, and useful with the addition of customer and reservation data, booking controls, stronger validation, and database analysis features. I didn’t receive any instructor feedback that required revisions, so I didn’t need to make any additional changes before publishing the enhancement.
 
 ### [View Original Travlr Source Code here](https://github.com/ColeF502/ColeF502.github.io/tree/main/artifacts/databases/original-travlr/travlr%20-%20Original)
 
