@@ -73,9 +73,9 @@ Travlr Getaways is a full-stack travel application that I originally created for
 
 ### Enhancement and Skills Demonstrated
 
-[Why you selected Travlr for the database category, which components demonstrate your database skills, and the major database enhancements.]
+I selected Travlr Getaways for the database category because it gave me an opportunity to demonstrate more than just a basic database that stores records. The original application already used MongoDB and Mongoose to store trip information, but its database functionality was fairly limited. For the enhancement, I expanded the database by adding customer and reservation data, connecting reservations to the correct customer and trip, and tracking trip capacity and remaining availability. I also added duplicate reservation and overbooking prevention, stronger schema validation, timestamps, database indexes, improved error handling, and a MongoDB aggregation that calculates booking totals and estimated revenue.
 
-[Specific skills demonstrated and how the enhancement improved the artifact.]
+These changes demonstrate my skills in MongoDB, Mongoose, database and schema design, working with related records, validation, indexing, database testing, aggregation, and error handling. The enhancement made the database more useful and reliable by adding better ways to manage and search related customer, trip, and reservation data while preventing invalid records, duplicate reservations, and overbooking.
 
 ### Reflection
 
